@@ -15,7 +15,7 @@
 - 平成29年４月 HAL東京入学。
 - 1年 前期 C , HTML , CSS 　後期 PHP , MySQLを学習。
 - 2年 Javaやoracleの基礎を学習。また独学でdockerやLaravelを学習。
-- 3年 仮想化技術に興味を持ちKubernetesを学習中。
+- 3年 インフラに興味を持ちKubernetesを学習中。
 
 
 
