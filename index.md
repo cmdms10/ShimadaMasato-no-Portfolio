@@ -34,7 +34,7 @@
 
 ### 花束販売サイト「FLOVIS」
 
-![flovis]([https://github.com/ponsima/ShimadaMasato-no-Portfolio/blob/master/images/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202019-05-07%2018.42.54.png](https://github.com/ponsima/ShimadaMasato-no-Portfolio/blob/master/images/スクリーンショット 2019-05-07 18.42.54.png)
+![flovis](https://github.com/ponsima/ShimadaMasato-no-Portfolio/blob/master/images/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202019-05-07%2018.42.54.png?raw=true)
 
 
 
