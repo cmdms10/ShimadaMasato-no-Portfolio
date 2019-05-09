@@ -63,13 +63,13 @@
 
 # Award
 
-学内進級制作展 「HAL EVENT WEEK 2018」意欲賞
-     PHP、JavaScriptを使った「 **タイムアタック神経衰弱** 」
+学内進級制作展 「HAL EVENT WEEK 2018」意欲賞</br>
+ 	PHP、JavaScriptを使った「 **タイムアタック神経衰弱** 」
 
 
 
-学内進級制作展「HAL EVENT WEEK 2019」銅賞
-     PHPフレームワーク**Laravel**を使用したフラワーギフトECサイト「**FLOVIS**」
+学内進級制作展「HAL EVENT WEEK 2019」銅賞</br>
+ 	PHPフレームワーク**Laravel**を使用したフラワーギフトECサイト「**FLOVIS**」
 
 
 
