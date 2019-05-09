@@ -69,9 +69,9 @@
 
 
 
-学内進級制作展「HAL EVENT WEEK 2019」銅賞
+学内進級制作展 「HAL EVENT WEEK 2019」銅賞
 
-> PHPフレームワーク**Laravel**を使用したフラワーギフトECサイト「**FLOVIS**」
+> Laravelを使ったフラワーギフト専門ECサイト「 **FLOVIS** 」
 
 
 
